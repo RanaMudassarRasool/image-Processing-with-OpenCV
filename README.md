@@ -1,4 +1,4 @@
-#Rana Mudassar Rasool
+# Rana Mudassar Rasool
 
 # image-Processing-with-OpenCV
 
@@ -41,4 +41,4 @@
 -- Discussing current trends and future directions in image processing research
 
 
-**Now, let'**s get started with Lesson 1: Introduction to Image Processing and OpenCV. In this lesson, we will cover the basics of image processing and get familiar with the OpenCV library.
+
